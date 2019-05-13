@@ -1,2 +1,2 @@
 # Cache-Performance
-Code for the analysis of different caches using MIPS Assembly.
+Code taht can be used for the analysis of different caches using MIPS Assembly and the MARS IDE.
